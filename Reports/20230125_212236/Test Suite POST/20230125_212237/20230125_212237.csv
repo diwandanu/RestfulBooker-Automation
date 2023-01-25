@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite POST,,,,2023-01-25 21:22:40,2023-01-25 21:22:45,4.919s,PASSED
+,,,,,,,
+Test Cases/TC01 - Auth - Create Token,,,,2023-01-25 21:22:40,2023-01-25 21:22:44,3.155s,PASSED
+"sendRequest(findTestObject(""API/Auth - CreateToken""))",,,,2023-01-25 21:22:41,2023-01-25 21:22:44,2.730s,PASSED
+,,,,,,,
+Test Cases/TC04 - Booking - CreateBooking,,,,2023-01-25 21:22:44,2023-01-25 21:22:45,1.478s,PASSED
+"sendRequest(findTestObject(""API/Booking - CreateBooking""))",,,,2023-01-25 21:22:44,2023-01-25 21:22:45,1.134s,PASSED
